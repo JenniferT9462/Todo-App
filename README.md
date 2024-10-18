@@ -27,7 +27,7 @@ A simple yet effective task management application built with React. This app al
 
 - Clone the repository: 
 
-        git clone <https://github.com/JenniferT9462/Todo-App.git>
+        git clone https://github.com/JenniferT9462/Todo-App.git
 
 - Install dependencies: 
 
